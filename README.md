@@ -39,7 +39,5 @@ SIMS+ is a web-based Smart Inventory Management System designed for Manson Tradi
 - Cloud Integration:
 - Authentication:
 - Backend:
--
--
 
 ---
