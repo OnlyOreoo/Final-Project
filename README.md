@@ -1,7 +1,8 @@
-# Final-Project
-<br>
-# Team Members
-1.) Andresa, Rev Andrei
-2.) Bolaños, Vince
-3.) Dagooc, Bryan
-4.) Laurente, Vien Melvic
+<h1 align="center"> Final-Project </h1> 
+--- 
+
+## Team Members
+- Andresa, Rev Andrei
+- Bolaños, Vince
+- Dagooc, Bryan
+- Laurente, Vien Melvic
